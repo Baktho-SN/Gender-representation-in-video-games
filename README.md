@@ -15,7 +15,7 @@ We use statistical analysis to uncover various ways in which the female and non-
 Here we try to find an answer to the following questions:
 > 1) Which of the female or non-female characters are majorly associated with protagonists? 
 > 2) Is there any noticeable correlation between the sexualization of female characters and their "side"?
-> 3) How does the representation of women characters vary across the different countries games are developed in and the platforms the game is released on?
+> 3) How does the representation of women characters vary across the different countries, games are developed in and the platforms, the game is released on?
 > 4) Are there any discernible patterns in the reception and representation of women characters based on "Avg_Reviews" and "Country" or "Platform"?
 > 5) What genres of video games tend to prioritise or feature a higher percentage of female characters?
 > 6) What is the relationship between the percentage of women on the team and sexualization of female characters?
