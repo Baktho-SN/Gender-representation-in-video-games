@@ -10,7 +10,7 @@ Languages and tools used :
 <img alt="Colab" src="https://img.shields.io/badge/Colab-F9AB00.svg?style=for-the-badge&logo=googlecolab&color=525252">
 </p>
 
-We use statistical analysis to uncover various ways in which the female and non-female characters (including male, non-binary and custom) are portrayed, identify prevalent stereotypes, and analyse how different gender identities are represented in video games. 
+We used statistical analysis to uncover various ways in which the female and non-female characters (including male, non-binary and custom) are portrayed, identify prevalent stereotypes, and analyse how different gender identities are represented in video games. 
 
 Here we try to find an answer to the following questions:
 > 1) Which of the female or non-female characters are majorly associated with protagonists? 
